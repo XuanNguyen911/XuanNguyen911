@@ -1,11 +1,12 @@
-- **Hi there!** 🙋🏻‍♀️
+# **Hi there!** 🙋🏻‍♀️
+
 - I'm Xuan Nguyen, a self-taught Data Analyst and SQL enthusiast from 🇻🇳
-- 🌟**About Me in 30 Secs** 🌟
-- 👩‍💼 Marketer turned Business Intelligence Analyst
+### 🌟**About Me in 30 Secs** 🌟
+- 👩‍💼 A marketer turned Business Intelligence Analyst
 - 📊 Transition to Data field in January 2022
-- 📈 Love working with numbers and learning new skills. I taught myself SQL and Pytho
+- 📈 Love working with numbers and learning new skills. I taught myself SQL and Python
 - 👨‍🍳 Enjoy cooking
-- 💡 **Core Competencies**
+### 💡 **Core Competencies**
 - Tools: SQL, Python, Excel, Google Sheets
 - Skills: Transact SQL, Data Analysis, Relational Database, Visualization, Business Analysis.
 
