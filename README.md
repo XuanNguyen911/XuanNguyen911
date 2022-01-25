@@ -1,6 +1,6 @@
 # **Hi there!** 🙋🏻‍♀️
 
-- I'm Xuan Nguyen, a self-taught Data Analyst and SQL enthusiast from my 🇻🇳
+- I'm Xuan Nguyen, a self-taught Data Analyst and SQL enthusiast from 🇻🇳
 
 ### 🌟**About Me in 30 Secs** 🌟
 - 👩‍💼 A marketer turned Business Intelligence Analyst
