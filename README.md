@@ -1,6 +1,6 @@
 # **Hi there!** 🙋🏻‍♀️
 
-- I'm Xuan Nguyen, a self-taught Data Analyst and SQL enthusiast from ![VietnamVietnamFlagGIF](https://user-images.githubusercontent.com/98383298/150942774-15c2fc48-905b-485d-9a09-0bff5fe7d77a.gif)
+- I'm Xuan Nguyen, a self-taught Data Analyst and SQL enthusiast from my 🇻🇳
 
 ### 🌟**About Me in 30 Secs** 🌟
 - 👩‍💼 A marketer turned Business Intelligence Analyst
